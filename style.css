@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+.head{
+    width: 100%;
+    font-weight: bold;
+    color: blue;
+    margin: 0px;
+    border-radius: 0px;
+}
+.pawnote{
+    background-color: black;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+canvas{
+    border: pink 5px ridge;
+    border-radius: 20px;
+}
